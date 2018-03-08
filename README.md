@@ -1,7 +1,7 @@
 # wireworld-pp
 The Wireworld++ rule file for the Golly software
 
-It should be saved with the file extension <>.rule and put into the “Rules” subdirectory of the Golly directory.
+It should be saved with the file extension .rule and put into the “Rules” subdirectory of the Golly directory.
 
 Transition rules are set as follows:
 
