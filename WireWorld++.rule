@@ -156,7 +156,7 @@ var K={4,5,6}
 
 # same colors used at http://www.quinapalus.com/wi-index.html
 # colors for weak states are the half-dimmed colors of their strong counterparts
-0 255 255 255   white
+0   0   0   0   black
 1   0 128 255   light blue
 2 128 128 128   light gray
 3 255 128   0   orange
